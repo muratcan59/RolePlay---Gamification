@@ -1,0 +1,131 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Kardelen.Business.Core/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Kardelen.Business.Framework.Core": "1.0.0",
+          "Kardelen.LKS.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Kardelen.Business.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Kardelen.Business.Core.dll": {}
+        }
+      },
+      "Kardelen.Business.Framework.Core/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Kardelen.Business.Framework.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Kardelen.Business.Framework.Core.dll": {}
+        }
+      },
+      "Kardelen.LKS.Core/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Kardelen.Business.Framework.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Kardelen.LKS.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Kardelen.LKS.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kardelen.Business.Core/1.0.0": {
+      "type": "project",
+      "path": "../Kardelen.Business.Core/Kardelen.Business.Core.csproj",
+      "msbuildProject": "../Kardelen.Business.Core/Kardelen.Business.Core.csproj"
+    },
+    "Kardelen.Business.Framework.Core/1.0.0": {
+      "type": "project",
+      "path": "../Framework/Kardelen.Business.Framework.Core/Kardelen.Business.Framework.Core.csproj",
+      "msbuildProject": "../Framework/Kardelen.Business.Framework.Core/Kardelen.Business.Framework.Core.csproj"
+    },
+    "Kardelen.LKS.Core/1.0.0": {
+      "type": "project",
+      "path": "../LKS/Kardelen.LKS.Core/Kardelen.LKS.Core.csproj",
+      "msbuildProject": "../LKS/Kardelen.LKS.Core/Kardelen.LKS.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Kardelen.Business.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\MONSTER\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.UI.Model\\Kardelen.UI.Model.csproj",
+      "projectName": "Kardelen.UI.Model",
+      "projectPath": "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.UI.Model\\Kardelen.UI.Model.csproj",
+      "packagesPath": "C:\\Users\\MONSTER\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.UI.Model\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\MONSTER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.Business.Core\\Kardelen.Business.Core.csproj": {
+              "projectPath": "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.Business.Core\\Kardelen.Business.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-rc.1.22431.12\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

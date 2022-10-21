@@ -1,0 +1,414 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.UI.Service\\Kardelen.UI.Service.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Framework\\Kardelen.Business.Framework.Core\\Kardelen.Business.Framework.Core.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Framework\\Kardelen.Business.Framework.Core\\Kardelen.Business.Framework.Core.csproj",
+        "projectName": "Kardelen.Business.Framework.Core",
+        "projectPath": "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Framework\\Kardelen.Business.Framework.Core\\Kardelen.Business.Framework.Core.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.Business.Core\\Kardelen.Business.Core.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.Business.Core\\Kardelen.Business.Core.csproj",
+        "projectName": "Kardelen.Business.Core",
+        "projectPath": "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.Business.Core\\Kardelen.Business.Core.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Framework\\Kardelen.Business.Framework.Core\\Kardelen.Business.Framework.Core.csproj": {
+                "projectPath": "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Framework\\Kardelen.Business.Framework.Core\\Kardelen.Business.Framework.Core.csproj"
+              },
+              "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\LKS\\Kardelen.LKS.Core\\Kardelen.LKS.Core.csproj": {
+                "projectPath": "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\LKS\\Kardelen.LKS.Core\\Kardelen.LKS.Core.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.C.Core\\Kardelen.C.Core.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.C.Core\\Kardelen.C.Core.csproj",
+        "projectName": "Kardelen.C.Core",
+        "projectPath": "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.C.Core\\Kardelen.C.Core.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Framework\\Kardelen.Business.Framework.Core\\Kardelen.Business.Framework.Core.csproj": {
+                "projectPath": "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Framework\\Kardelen.Business.Framework.Core\\Kardelen.Business.Framework.Core.csproj"
+              },
+              "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.Business.Core\\Kardelen.Business.Core.csproj": {
+                "projectPath": "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.Business.Core\\Kardelen.Business.Core.csproj"
+              },
+              "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.Configuration\\Kardelen.Configuration.csproj": {
+                "projectPath": "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.Configuration\\Kardelen.Configuration.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.C.WCF.Contracts\\Kardelen.C.WCF.Contracts.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.C.WCF.Contracts\\Kardelen.C.WCF.Contracts.csproj",
+        "projectName": "Kardelen.C.WCF.Contracts",
+        "projectPath": "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.C.WCF.Contracts\\Kardelen.C.WCF.Contracts.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.Business.Core\\Kardelen.Business.Core.csproj": {
+                "projectPath": "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.Business.Core\\Kardelen.Business.Core.csproj"
+              },
+              "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.C.Core\\Kardelen.C.Core.csproj": {
+                "projectPath": "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.C.Core\\Kardelen.C.Core.csproj"
+              },
+              "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.WCF.Core\\Kardelen.WCF.Core.csproj": {
+                "projectPath": "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.WCF.Core\\Kardelen.WCF.Core.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.Configuration\\Kardelen.Configuration.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.Configuration\\Kardelen.Configuration.csproj",
+        "projectName": "Kardelen.Configuration",
+        "projectPath": "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.Configuration\\Kardelen.Configuration.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.UI.Core\\Kardelen.UI.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.UI.Core\\Kardelen.UI.Core.csproj",
+        "projectName": "Kardelen.UI.Core",
+        "projectPath": "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.UI.Core\\Kardelen.UI.Core.csproj",
+        "packagesPath": "C:\\Users\\MONSTER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.UI.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MONSTER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.Business.Core\\Kardelen.Business.Core.csproj": {
+                "projectPath": "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.Business.Core\\Kardelen.Business.Core.csproj"
+              },
+              "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.C.WCF.Contracts\\Kardelen.C.WCF.Contracts.csproj": {
+                "projectPath": "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.C.WCF.Contracts\\Kardelen.C.WCF.Contracts.csproj"
+              },
+              "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.WCF.Contracts\\Kardelen.WCF.Contracts.csproj": {
+                "projectPath": "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.WCF.Contracts\\Kardelen.WCF.Contracts.csproj"
+              },
+              "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.WCF.Core\\Kardelen.WCF.Core.csproj": {
+                "projectPath": "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.WCF.Core\\Kardelen.WCF.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "System.ServiceModel.Http": {
+              "target": "Package",
+              "version": "[4.10.0, )"
+            },
+            "System.ServiceModel.NetTcp": {
+              "target": "Package",
+              "version": "[4.10.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-rc.1.22431.12\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.UI.Model\\Kardelen.UI.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.UI.Model\\Kardelen.UI.Model.csproj",
+        "projectName": "Kardelen.UI.Model",
+        "projectPath": "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.UI.Model\\Kardelen.UI.Model.csproj",
+        "packagesPath": "C:\\Users\\MONSTER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.UI.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MONSTER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.Business.Core\\Kardelen.Business.Core.csproj": {
+                "projectPath": "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.Business.Core\\Kardelen.Business.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-rc.1.22431.12\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.UI.Service\\Kardelen.UI.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.UI.Service\\Kardelen.UI.Service.csproj",
+        "projectName": "Kardelen.UI.Service",
+        "projectPath": "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.UI.Service\\Kardelen.UI.Service.csproj",
+        "packagesPath": "C:\\Users\\MONSTER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.UI.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MONSTER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.UI.Core\\Kardelen.UI.Core.csproj": {
+                "projectPath": "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.UI.Core\\Kardelen.UI.Core.csproj"
+              },
+              "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.UI.Model\\Kardelen.UI.Model.csproj": {
+                "projectPath": "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.UI.Model\\Kardelen.UI.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-rc.1.22431.12\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.WCF.Contracts\\Kardelen.WCF.Contracts.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.WCF.Contracts\\Kardelen.WCF.Contracts.csproj",
+        "projectName": "Kardelen.WCF.Contracts",
+        "projectPath": "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.WCF.Contracts\\Kardelen.WCF.Contracts.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.Business.Core\\Kardelen.Business.Core.csproj": {
+                "projectPath": "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.Business.Core\\Kardelen.Business.Core.csproj"
+              },
+              "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.C.Core\\Kardelen.C.Core.csproj": {
+                "projectPath": "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.C.Core\\Kardelen.C.Core.csproj"
+              },
+              "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.WCF.Core\\Kardelen.WCF.Core.csproj": {
+                "projectPath": "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.WCF.Core\\Kardelen.WCF.Core.csproj"
+              },
+              "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\LKS\\Kardelen.LKS.Core\\Kardelen.LKS.Core.csproj": {
+                "projectPath": "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\LKS\\Kardelen.LKS.Core\\Kardelen.LKS.Core.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.WCF.Core\\Kardelen.WCF.Core.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.WCF.Core\\Kardelen.WCF.Core.csproj",
+        "projectName": "Kardelen.WCF.Core",
+        "projectPath": "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.WCF.Core\\Kardelen.WCF.Core.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.Business.Core\\Kardelen.Business.Core.csproj": {
+                "projectPath": "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.Business.Core\\Kardelen.Business.Core.csproj"
+              },
+              "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.Configuration\\Kardelen.Configuration.csproj": {
+                "projectPath": "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Kardelen.Configuration\\Kardelen.Configuration.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\LKS\\Kardelen.LKS.Core\\Kardelen.LKS.Core.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\LKS\\Kardelen.LKS.Core\\Kardelen.LKS.Core.csproj",
+        "projectName": "Kardelen.LKS.Core",
+        "projectPath": "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\LKS\\Kardelen.LKS.Core\\Kardelen.LKS.Core.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Framework\\Kardelen.Business.Framework.Core\\Kardelen.Business.Framework.Core.csproj": {
+                "projectPath": "C:\\Users\\MONSTER\\Desktop\\kardelen-dev-general\\Framework\\Kardelen.Business.Framework.Core\\Kardelen.Business.Framework.Core.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    }
+  }
+}

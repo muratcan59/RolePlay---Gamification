@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <UserSecretsId>af0cdc6f-342e-4729-81f9-5c3399c565bc</UserSecretsId>
+    <RunAnalyzersDuringBuild>false</RunAnalyzersDuringBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="6.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Kardelen.UI.Core\Kardelen.UI.Core.csproj" />
+    <ProjectReference Include="..\Kardelen.UI.Model\Kardelen.UI.Model.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Kardelen.Core">
+      <HintPath>..\Shared\Kardelen.Core.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+
+</Project>
