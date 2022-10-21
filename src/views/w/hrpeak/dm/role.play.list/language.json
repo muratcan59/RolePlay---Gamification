@@ -1,0 +1,32 @@
+[
+    {
+        "KEY_CODE": "TITLE",
+        "TR": "Role Play Listesi",
+        "EN": "Role Play List"
+    },
+    {
+        "KEY_CODE": "ROLE_PLAY",
+        "TR": "Role Play",
+        "EN": "Role Play"
+    },
+    {
+        "KEY_CODE": "DUZENLE",
+        "TR": "Düzenle",
+        "EN": "Edit"
+    },
+    {
+        "KEY_CODE": "SIL",
+        "TR": "Sil",
+        "EN": "Delete"
+    },
+    {
+        "KEY_CODE": "DELETE_WARNING",
+        "TR": "Değerlendirmeyi silmek istediğinizden emin misiniz?",
+        "EN": "Are you sure you want to delete the assessment?"
+    },
+    {
+        "KEY_CODE": "ROLE_PLAY_DELETED",
+        "TR": "Değerlendirme başarı ile silindi.",
+        "EN": "Assessment deleted successfully."
+    }
+]

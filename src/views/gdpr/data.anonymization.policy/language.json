@@ -1,0 +1,57 @@
+[
+  {
+    "KEY_CODE": "TITLE",
+    "TR": "Veri Anonimleştirme Politikası",
+    "EN": "Data Anonymization Policy"
+  },
+  {
+    "KEY_CODE": "CV_ANONYMIZATION_TIME",
+    "TR": "Aday Talebi Üzerine Hesap Kapatma Süresi",
+    "EN": "Time for Account Closing on Candidate Request"
+  },
+  {
+    "KEY_CODE": "CV_ANONYMIZATION_TIME_DESCRIPTION",
+    "TR": "Adaydan hesap kapatma talebi geldiğinde, adayın hesabının kapatılması ve özgeçmişinde yer alan kişisel verilerin silinme işlemi aday talebinden ne kadar sonra gerçekleşsin?",
+    "EN": "When an account closure request is received from the candidate, how long after the candidate's request should the closure of the candidate's account and the deletion of the personal data in his/her resume take place?"
+  },
+  {
+    "KEY_CODE": "TEMPORARILY_STORE_DATA",
+    "TR": "Aday Kartına İşlenen Verileri Geçiçi Olarak Sakla",
+    "EN": "Temporarily Store Processed Data on Candidate Card"
+  },
+  {
+    "KEY_CODE": "DELETE_ALL_DATA_SELECTION",
+    "TR": "Hesap kapatma sırasında adaya ait tüm veriler bekletilmeksizin silinsin",
+    "EN": "Hesap kapatma sırasında adaya ait tüm verileri gecikmeden silin"
+  },
+  {
+    "KEY_CODE": "TEMPORARILY_STORE_DATA_DESCRIPTION",
+    "TR": "Hesap kapatma sırasında aday özgeçmişinde yer alan tüm kişisel bilgiler silinir ve aday özgeçmişine hiçbir şekilde erişilemez. Yukarıdaki seçeneği işaretleyerek, aday tarafından tamamlanan sınav, anket vb. değerlendirme sonuçları, aday üzerine eklenen notlar, aday etiketleri gibi aday kartına işlenen verileri geçici olarak saklayabilirsiniz. Verileri saklanan adaylar, anonimleştirilen aday listesine eklenir ve aday kartına bu liste üzerinden erişilebilir. Bu listede yer alan adaya ait tüm veriler KVKK yetkilisi tarafından 30 günlük süre içerisinde manuel bir şekilde silinebilir. 30 gün içerisinde manuel bir veri silme yapılmadığı takdirde, adayın tüm verileri otomatik bir şekilde kalıcı olarak silinir.",
+    "EN": "During account closure, all personal information in the candidate's CV is deleted and the candidate's CV cannot be accessed in any way. By checking the option above, you can temporarily store the data processed on the candidate card, such as the results of the exam, survey etc. completed by the candidate, the notes added on the candidate and candidate tags. Candidates whose data are stored are added to the anonymized candidate list and the candidate card can be accessed through this list. All data of the candidate in this list can be manually deleted by the GDPR official within 30 days. Unless a manual data deletion is made within 30 days, all the candidate's data will be permanently deleted automatically."
+  },
+  {
+    "KEY_CODE": "OPTION_1_HOUR",
+    "TR": "1 saat",
+    "EN": "1 hour"
+  },
+  {
+    "KEY_CODE": "OPTION_1_DAY",
+    "TR": "1 gün",
+    "EN": "1 day"
+  },
+  {
+    "KEY_CODE": "OPTION_1_WEEK",
+    "TR": "1 hafta",
+    "EN": "1 week"
+  },
+  {
+    "KEY_CODE": "OPTION_1_MONTH",
+    "TR": "1 ay",
+    "EN": "1 month"
+  },
+  {
+    "KEY_CODE": "SAVE_OK",
+    "TR": "Veri anonimleştirme politikası başarıyla kaydedildi.",
+    "EN": "Data anonymization policy has been successfully saved."
+  }
+]

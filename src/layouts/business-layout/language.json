@@ -1,0 +1,92 @@
+[
+    {
+        "KEY_CODE": "ROL_DEGISTIR",
+        "TR": "Rol Değiştir",
+        "EN": "Change Role"
+    },
+    {
+        "KEY_CODE": "KARIYER_SITE",
+        "TR": "Kariyer Sitesine Git",
+        "EN": "Go to Career Site"
+    },
+    {
+        "KEY_CODE": "CIKIS",
+        "TR": "Çıkış",
+        "EN": "Sign out"
+    },
+    {
+        "KEY_CODE": "HESABIM",
+        "TR": "Hesabım",
+        "EN": "Profile"
+    },
+    {
+        "KEY_CODE": "AYARLAR",
+        "TR": "Ayarlar",
+        "EN": "Setting"
+    },
+    {
+        "KEY_CODE": "BILDIRIM",
+        "TR": "Bildirim Ayarları",
+        "EN": "Notification Setting"
+    },
+    {
+        "KEY_CODE": "SITE_HARITASI",
+        "TR": "Site Haritası",
+        "EN": "Site Map"
+    },
+    {
+        "KEY_CODE": "ADAY_DAVET",
+        "TR": "Aday Davet Et",
+        "EN": "Invite Candidate"
+    },
+    {
+        "KEY_CODE": "POZISYON",
+        "TR": "Yeni Pozisyon",
+        "EN": "New Position"
+    },
+    {
+        "KEY_CODE": "ILAN",
+        "TR": "Yeni İlan",
+        "EN": "Post Job"
+    },
+    {
+        "KEY_CODE": "OZGECMIS",
+        "TR": "Yeni Özgeçmiş",
+        "EN": "Add Resume"
+    },
+    {
+        "KEY_CODE": "AD_SOYAD",
+        "TR": "Ad soyad",
+        "EN": "Name-Surname"
+    },
+    {
+        "KEY_CODE": "DEGERLENDIRME",
+        "TR": "Yeni Değerlendirme",
+        "EN": "New Assessment"
+    },
+    {
+        "KEY_CODE": "DIL",
+        "TR": "tr",
+        "EN": "en"
+    },
+    {
+        "KEY_CODE": "UYGULAMA_SEC",
+        "TR": "Uygulama seç",
+        "EN": "Select Application"
+    },
+    {
+        "KEY_CODE": "ADD",
+        "TR": "Ekle",
+        "EN": "Add"
+    },
+    {
+        "KEY_CODE": "BILDIRIM_AYARLARI",
+        "TR": "Bildirim Ayarları",
+        "EN": "Notification Settings"
+    },
+    {
+        "KEY_CODE": "LOGO_YUKLE",
+        "TR": "Logo yükle",
+        "EN": "Upload logo"
+    }
+]

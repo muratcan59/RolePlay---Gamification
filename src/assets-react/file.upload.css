@@ -1,0 +1,24 @@
+input[type="file"] {
+    display: none;
+}
+
+.section {
+    border: 1px dashed #1b6d85
+}
+
+.section:hover {
+    cursor: pointer;
+}
+
+.section svg {
+    color: #1b5790;
+}
+
+.dzu-inputLabel {
+    position: relative
+}
+
+.dzu-dropzone {
+    overflow: hidden;
+    border-style: dashed
+}

@@ -1,0 +1,27 @@
+[
+    {
+        "KEY_CODE": "TITLE",
+        "TR": "Değerlendirme Kriterleri",
+        "EN": "Evaluation Criteria"
+    },
+    {
+        "KEY_CODE": "COMPETENCY",
+        "TR": "Yetkinlik",
+        "EN": "Competency"
+    },
+    {
+        "KEY_CODE": "BEHAVIORAL_INDICATOR",
+        "TR": "Davranış Göstergesi",
+        "EN": "Behavioral Indicator"
+    },
+    {
+        "KEY_CODE": "ITEM_UPDATED",
+        "TR": "Değerlendirme kriteri başarı ile güncellendi.",
+        "EN": "Evaluation criteria updated successfully."
+    },
+    {
+        "KEY_CODE": "ITEM_CREATED",
+        "TR": "Değerlendirme kriteri başarı ile oluşturuldu.",
+        "EN": "Evaluation criteria created successfully."
+    }
+]

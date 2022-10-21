@@ -1,0 +1,37 @@
+[
+    {
+        "KEY_CODE": "TITLE",
+        "TR": "Case Study Değerlendirme Kriterleri",
+        "EN": "Case Study Evaluation Criteria"
+    },
+    {
+        "KEY_CODE": "DUZENLE",
+        "TR": "Düzenle",
+        "EN": "Edit"
+    },
+    {
+        "KEY_CODE": "SIL",
+        "TR": "Sil",
+        "EN": "Delete"
+    },
+    {
+        "KEY_CODE": "DELETE_WARNING",
+        "TR": "Kriteri silmek istediğinizden emin misiniz?",
+        "EN": "Are you sure you want to delete the criteria?"
+    },
+    {
+        "KEY_CODE": "ITEM_DELETED",
+        "TR": "Değerlendirme kriteri başarı ile silindi.",
+        "EN": "Evaluation criteria deleted successfully."
+    },
+    {
+        "KEY_CODE": "COMPETENCY",
+        "TR": "Yetkinlik",
+        "EN": "Competency"
+    },
+    {
+        "KEY_CODE": "BEHAVIORAL_INDICATOR",
+        "TR": "Davranış Göstergesi",
+        "EN": "Behavioral Indicator"
+    }
+]

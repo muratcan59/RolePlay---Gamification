@@ -1,0 +1,13 @@
+.criteria td{vertical-align:top}
+.subTitle td{padding-bottom:8px;}
+.file-uploader{display: inline-block;margin: 4px 0;}
+i{padding-left: 4px;}
+.link{padding-right:12px;text-decoration: underline;color:#00BCD4}
+.link:hover{color:#E65100;cursor: pointer;}
+.link i{padding-left: 0;padding-right: 4px;}
+.hide{display:none;}
+.copyLink{color:#00BCD4;}
+.copyLink:hover{cursor: pointer;}
+.G td{padding: 6px}
+.editLink{float: right;}
+.editLink i{padding-right: 4px;}

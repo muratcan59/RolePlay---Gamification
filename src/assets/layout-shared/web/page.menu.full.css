@@ -1,0 +1,22 @@
+.menuSayfa{background:none!important;position:relative;padding:15px 15px 0 15px}
+.menuSayfa:empty{display:none}
+.menuSayfa .PH{height:20px;font-size:20px;color:#333;font-weight:normal;letter-spacing:normal;white-space:normal;padding:0}
+.menuSayfa .MW{background:none!important;box-shadow:none;-webkit-box-shadow:none}
+.menuSayfa .SAD{padding:0 14px}
+.menuSayfa .right td{padding:0!important}
+.menuSayfa .menuSayfaMobil{color:#fff;position:absolute;right:20px;top:18px;font-size:20px}
+
+.menuSayfa{padding-top:12px!important}
+.menuSayfa .MW{height:25px}
+.menuSayfa .PH{position:absolute;left:50%;transform:translateX(-50%)}
+.container.siteTema .menuSayfa .PH{position:relative;left:0;transform:none}
+.container.siteTema .menuSayfa{padding-top:0!important}
+.menuSayfa .PH + td a{font-weight:600;font-size:11px;font-weight:normal;background-color:#fff;margin-right:5px;padding:2px 4px;text-align:center;border:1px solid #a9d780;display:inline-block}
+.menuSayfa .PH + td a:last-child{margin-right:10px}
+.menuSayfa .PH + td a:hover{color:#72c02c;background:#edf4e4}
+.menuSayfa .PH + td a span{color:#72c02c;font-size:11px}
+.menuSayfa .PH + td a:hover span{border:none;color:#72c02c}
+.menuSayfa .PH + td a.dAktif{border-color:#72c02c!important;display:inline-block;background:#72c02c!important;color:#fff!important;cursor:default}
+.menuSayfa .PH + td a.dAktif span{color:#fff}
+.menuSayfa .PH + td a.dAktif:hover span{color:#fff}
+.menuSayfa .PH + td a svg{font-size:14px;width:16px;height:14px;color:#72c02c;margin:0}

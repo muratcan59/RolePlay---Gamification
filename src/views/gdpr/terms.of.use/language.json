@@ -1,0 +1,27 @@
+[
+    {
+      "KEY_CODE": "TITLE",
+      "TR": "Kullanıcı Sözleşmesi",
+      "EN": "User Aggrement"
+    },
+    {
+      "KEY_CODE": "SAVE_OK",
+      "TR": "Kullanım sözleşmesi kaydedildi.",
+      "EN": "The user aggrement saved."
+    },
+    {
+      "KEY_CODE": "RESET",
+      "TR": "Reset",
+      "EN": "Reset"
+    },
+    {
+      "KEY_CODE": "RESET_WARNING",
+      "TR": "Resetleme durumunda sözleşme üzerinde yapılan değişiklikler kaybolarak orijinal metin yüklenecektir. Devam etmek istediğinizden emin misiniz?",
+      "EN": "In case of reset, the changes made on the content will be lost and the original content will be loaded. Are you sure you want to continue?"
+    },
+    {
+      "KEY_CODE": "RESET_OK",
+      "TR": "Kullanım sözleşmesi resetlendi.",
+      "EN": "The user agreement has been reset."
+    }
+]

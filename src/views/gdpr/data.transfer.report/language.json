@@ -1,0 +1,27 @@
+[
+  {
+    "KEY_CODE":"TITLE",
+    "TR":"Sistem Dışına Veri Aktarım Raporu",
+    "EN":"Data Transfer Report Out of the System"
+  },
+  {
+    "KEY_CODE":"USER",
+    "TR":"Kullanıcı",
+    "EN":"User"
+  },
+  {
+    "KEY_CODE":"DATE",
+    "TR":"Tarih",
+    "EN":"Date"
+  },
+  {
+    "KEY_CODE":"PROCESS",
+    "TR":"Yapılan İşlem",
+    "EN":"Action Taken"
+  },
+  {
+    "KEY_CODE":"DATA_LENGTH",
+    "TR":"Kayıt / İşlem Sayısı",
+    "EN":"Number of Row / Action"
+  }
+]

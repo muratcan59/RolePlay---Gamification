@@ -1,0 +1,52 @@
+[
+  {
+    "KEY_CODE":"TITLE",
+    "TR":"Aday Veri Silme Talepleri",
+    "EN":"Candidate Data Deletion Requests"
+  },
+  {
+    "KEY_CODE":"CANDIDATE",
+    "TR":"Aday",
+    "EN":"Candidate"
+  },
+  {
+    "KEY_CODE":"REQUESTOR",
+    "TR":"Talep Sahibi",
+    "EN":"Requestor"
+  },
+  {
+    "KEY_CODE":"REQUEST_DATE",
+    "TR":"Talep Tarihi",
+    "EN":"Request Date"
+  },
+  {
+    "KEY_CODE":"REQUEST_CANCEL",
+    "TR":"İsteği İptal Et",
+    "EN":"Cancel Request"
+  },
+  {
+    "KEY_CODE":"REQUEST_CANCEL_WARNING",
+    "TR":"Adayın hesap kapatma talebini geri almak istediğinizden emin misiniz?",
+    "EN":"Are you sure you want to withdraw the candidate's account closure request?"
+  },
+  {
+    "KEY_CODE":"REQUEST_CANCELED",
+    "TR":"İstek iptal edildi",
+    "EN":"Request canceled"
+  },
+  {
+    "KEY_CODE":"CANDIDATE_DATA_DELETE",
+    "TR":"Aday Verilerini Sil",
+    "EN":"Delete Candidate Data"
+  },
+  {
+    "KEY_CODE":"CANDIDATE_DATA_DELETE_WARNING",
+    "TR":"Bu işlemin geri dönüşü yoktur. Aday verilerini silmek istediğinizden emin misiniz?",
+    "EN":"This process is irreversible. Are you sure you want to delete candidate data?"
+  },
+  {
+    "KEY_CODE":"CANDIDATE_DATA_DELETED",
+    "TR":"Aday verileri silindi",
+    "EN":"Candidate data deleted"
+  }
+]

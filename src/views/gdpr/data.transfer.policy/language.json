@@ -1,0 +1,72 @@
+[
+  {
+    "KEY_CODE": "TITLE",
+    "TR": "Sistem Dışına Veri Aktarım Politikası",
+    "EN": "Data Transfer Policy Out of the System"
+  },
+  {
+    "KEY_CODE": "TRANSACTION_NUMBER_LIMITATION",
+    "TR": "Veri Aktarım İşlem Limiti",
+    "EN": "Data Transfer Transaction Limit"
+  },
+  {
+    "KEY_CODE": "TRANSACTION_NUMBER_LIMITATION_DESCRIPTION",
+    "TR": "Kullanıcıların gün içerisinde çok fazla sayıda raporu sistem dışına aktarmasını engelleyin.",
+    "EN": "Prevent users from exporting to many reports out of the system during the day."
+  },
+  {
+    "KEY_CODE": "TRANSACTION_NUMBER_UNIT",
+    "TR": "her rapor türü için günlük",
+    "EN": "per day for each report type"
+  },
+  {
+    "KEY_CODE": "TRANSACTION_NUMBER_FOR_NOTIFICATION",
+    "TR": "Veri Aktarım Bildirimi",
+    "EN": "Data Transfer Notification"
+  },
+  {
+    "KEY_CODE": "TRANSACTION_NUMBER_FOR_NOTIFICATION_DESCRIPTION",
+    "TR": "Kullanıcıların sistem dışına çok fazla sayıda rapor alması durumundan haberdar olmak istiyorsanız e-posta gönderim ayarını açınız.",
+    "EN": "If you want to be informed that users receive too many reports out of the system, turn on the e-mail sending setting."
+  },
+  {
+    "KEY_CODE": "TRANSACTION_NOTIFICATION_UNIT",
+    "TR": "her rapor türü için belirtilen sayıda rapor alındıktan sonra",
+    "EN": "after exporting the specified number of reports for each report type"
+  },
+  {
+    "KEY_CODE": "EXCEL_DATA_LIMITATION",
+    "TR": "Maksimum Excel Satır Sayısı",
+    "EN": "Maximum Excel Rows"
+  },
+  {
+    "KEY_CODE": "EXCEL_DATA_LIMITATION_DESCRIPTION",
+    "TR": "Kullanıcıların sistem dışına aldığı Excel dosyaları için maksimum satır sayısı sınırı belirtebilirsiniz. Excel boyutunu sınırlayarak, çok sayıda verinin aynı anda sistem dışına aktarılmasını engelleyin.",
+    "EN": "You can specify a maximum number of rows limit for Excel files that users export out of the system. Prevent large amounts of data from being exported out of the system at the same time by limiting the size of Excel."
+  },
+  {
+    "KEY_CODE": "EXCEL_DATA_SIZE_UNIT",
+    "TR": "maksimum satır sayısı",
+    "EN": "maximum rows"
+  },
+  {
+    "KEY_CODE": "EXCEL_DATA_SIZE_FOR_NOTIFICATION",
+    "TR": "Excel Veri Aktarım Bildirimi",
+    "EN": "Excel Data Transfer Notification"
+  },
+  {
+    "KEY_CODE": "EXCEL_DATA_SIZE_FOR_NOTIFICATION_DESCRIPTION",
+    "TR": "Kullanıcıların sistem dışına Excel ile veri aktarması durumundan haberdar olarak almak istiyorsanız e-posta gönderim ayarını açınız.",
+    "EN": "If you want to be notified of users transferring data out of the system with Excel, turn on sending e-mail setting."
+  },
+  {
+    "KEY_CODE": "EXCEL_DATA_NOTIFICATION_UNIT",
+    "TR": "belirtilen satır ve üzerindeki Excel dosyaları için bildirim al",
+    "EN": "receive notification for Excel files on the specified row and above"
+  },
+  {
+    "KEY_CODE": "SAVE_OK",
+    "TR": "Sistem dışına veri aktarım politikası başarıyla kaydedildi.",
+    "EN": "Data transfer policy out of the system has been successfully saved."
+  }
+]

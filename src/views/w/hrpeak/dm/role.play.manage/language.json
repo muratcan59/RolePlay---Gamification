@@ -1,0 +1,162 @@
+[
+    {
+        "KEY_CODE": "TITLE",
+        "TR": "Role Play Oluşturma",
+        "EN": "Role Play Create"
+    },
+    {
+        "KEY_CODE": "TITLE_EDIT",
+        "TR": "Role Play Yönetme",
+        "EN": "Role Play Manage"
+    },
+    {
+        "KEY_CODE": "ROLE_PLAY_NAME",
+        "TR": "Role Play Adı",
+        "EN": "Role Play Name"
+    },
+    {
+        "KEY_CODE": "ROLE_PLAY_TITLE",
+        "TR": "Başlık",
+        "EN": "Title"
+    },
+    {
+        "KEY_CODE": "TITLE_DESCRIPTION",
+        "TR": "Role Play egzersizi için bir başlık veriniz. Adaylar role play egzersizini bu ad ile görecekler.",
+        "EN": "Give a title to the role play. Candidates will see this title when taking the role play."
+    },
+    {
+        "KEY_CODE": "SCENARIO",
+        "TR": "Senaryo",
+        "EN": "Scenario"
+    },
+    {
+        "KEY_CODE": "SCENARIO_EMPTY",
+        "TR": "Senaryo metnini giriniz!",
+        "EN": "Enter the scenario text!"
+    },
+    {
+        "KEY_CODE": "SCENARIO_PLACEHOLDER",
+        "TR": "Senaryo metni",
+        "EN": "scenario text"
+    },
+    {
+        "KEY_CODE": "EVALUATION_FORM",
+        "TR": "Değerlendirme Formu",
+        "EN": "Evaluation Form"
+    },
+    {
+        "KEY_CODE": "COMPETENCY",
+        "TR": "Yetkinlik",
+        "EN": "Competency"
+    },
+    {
+        "KEY_CODE": "BEHAVIORAL_INDICATOR",
+        "TR": "Davranış Göstergesi",
+        "EN": "Behavioral Indicator"
+    },
+    {
+        "KEY_CODE": "SCENARIO_SUMMARY",
+        "TR": "Senaryo Özeti",
+        "EN": "Scenario Summary"
+    },
+    {
+        "KEY_CODE": "SCENARIO_GUIDE",
+        "TR": "Değerlendirme Rehberi",
+        "EN": "Assessment Guide"
+    },
+    {
+        "KEY_CODE": "SCENARIO_QUESTION",
+        "TR": "Soru Metni",
+        "EN": "Question"
+    },
+    {
+        "KEY_CODE": "REACTION_QUESTION",
+        "TR": "Reaksiyon Metni",
+        "EN": "Reaction"
+    },
+    {
+        "KEY_CODE": "REACTION",
+        "TR": "Reaksiyon",
+        "EN": "Reaction"
+    },
+    {
+        "KEY_CODE": "ADD_REACTION",
+        "TR": "Reaksiyon ekle",
+        "EN": "Add reaction"
+    },
+    {
+        "KEY_CODE": "READING_TIME",
+        "TR": "Senaryo Okuma Süresi",
+        "EN": "Scenario Reading Time"
+    },
+    {
+        "KEY_CODE": "RECORD_TIME",
+        "TR": "Aday Kayıt Süresi",
+        "EN": "Record Time"
+    },
+    {
+        "KEY_CODE": "ROLE_PLAY_UPDATED",
+        "TR": "Role play analizi güncellendi",
+        "EN": "Role play is updated"
+    },
+    {
+        "KEY_CODE": "ROLE_PLAY_CREATED",
+        "TR": "Role play analizi oluşturuldu",
+        "EN": "Role play is created"
+    },
+    {
+        "KEY_CODE": "MINUTE",
+        "TR": "dk",
+        "EN": "min"
+    },
+    {
+        "KEY_CODE": "CANDIDATE_INFO",
+        "TR": "Aday Bilgilendirme",
+        "EN": "Candidate Information"
+    },
+    {
+        "KEY_CODE": "ADD_FILE",
+        "TR": "Yeni dosya ekle",
+        "EN": "Choose new file"
+    },
+    {
+        "KEY_CODE": "SHOW_FILE",
+        "TR": "Dosyayı göster",
+        "EN": "Show file"
+    },
+    {
+        "KEY_CODE": "EDIT",
+        "TR": "Düzenle",
+        "EN": "Edit"
+    },
+    {
+        "KEY_CODE": "DELETE",
+        "TR": "Sil",
+        "EN": "Delete"
+    },
+    {
+        "KEY_CODE": "CRITERIA_DELETE_WARNING",
+        "TR": "Kriteri silmek istediğinizden emin misiniz?",
+        "EN": "Are you sure you want to delete the criteria?"
+    },
+    {
+        "KEY_CODE": "ITEM_DELETED",
+        "TR": "Değerlendirme kriteri başarı ile silindi.",
+        "EN": "Evaluation criteria deleted successfully."
+    },
+    {
+        "KEY_CODE": "ADD",
+        "TR": "Kriter ekle",
+        "EN": "Add criteria"
+    },
+    {
+        "KEY_CODE": "REACTION_DELETE_WARNING",
+        "TR": "Reaksiyonu silmek istediğinizden emin misiniz?",
+        "EN": "Are you sure you want to delete the reaction?"
+    },
+    {
+        "KEY_CODE": "REACTION_DELETED",
+        "TR": "Reaksiyon başarı ile silindi.",
+        "EN": "Reaction deleted successfully."
+    }
+]

@@ -1,0 +1,16 @@
+.hd{width:800px;max-width:100%;margin:auto}
+.hd .baslik{height:20px;font-size:18px;padding:5px;display:inline-block}
+.hd .altBaslik{font-size:14px}
+.hd .altBaslik:before{content:'/';padding-right:5px}
+.hd .mn{float:right;position:relative}
+.hd .mn>a{font-size:24px}
+.hd .mn svg{color:#567;padding-right:5px}
+.hd .mn span{font-size:24px;cursor:pointer;padding:5px 0 5px 5px}
+.hd .mn .subMenu{background-color:#fff;border:solid thin #d3d3d3;border-radius:2px;margin:10px;position:absolute;right:0;text-align:right;z-index:1}
+.hd .mn .subMenu a{color:#567;display:block;white-space:nowrap;margin:5px;font-size:13px;padding:3px 0 3px 7px}
+.hd .mn .subMenu a:hover{color:#07b}
+.hd .mn .subMenu a>svg{padding-left:6px;font-size:1em;width:2em}
+@media only screen and (max-width:760px),(min-device-width:168px) and (max-device-width:1024px)
+{
+    .hd{width:100%}
+}

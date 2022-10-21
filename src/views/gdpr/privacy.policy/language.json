@@ -1,0 +1,12 @@
+[
+    {
+      "KEY_CODE": "TITLE",
+      "TR": "Aydınlatma Metni",
+      "EN": "Privacy Policy"
+    },
+    {
+      "KEY_CODE": "SAVE_OK",
+      "TR": "Aydınlatma metni kaydedildi.",
+      "EN": "The privacy policy saved."
+    }
+]

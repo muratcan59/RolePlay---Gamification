@@ -1,0 +1,132 @@
+[
+  {
+    "KEY_CODE": "TITLE",
+    "TR": "Case Study Oluşturma",
+    "EN": "Case Study Create"
+  },
+  {
+    "KEY_CODE": "TITLE_EDIT",
+    "TR": "Case Study Yönetme",
+    "EN": "Case Study Manage"
+  },
+  {
+    "KEY_CODE": "CASE_STUDY_NAME",
+    "TR": "Case Study Adı",
+    "EN": "Case Study Name"
+  },
+  {
+    "KEY_CODE": "CASE_STUDY_TITLE",
+    "TR": "Başlık",
+    "EN": "Title"
+  },
+  {
+    "KEY_CODE": "TITLE_DESCRIPTION",
+    "TR": "Case Study egzersizi için bir başlık veriniz. Adaylar case study egzersizini bu ad ile görecekler.",
+    "EN": "Give a title to the case study. Candidates will see this title when taking the case study."
+  },
+  {
+    "KEY_CODE": "SCENARIO",
+    "TR": "Senaryo",
+    "EN": "Scenario"
+  },
+  {
+    "KEY_CODE": "SCENARIO_EMPTY",
+    "TR": "Senaryo metnini giriniz!",
+    "EN": "Enter the scenario text!"
+  },
+  {
+    "KEY_CODE": "SCENARIO_PLACEHOLDER",
+    "TR": "Senaryo metni",
+    "EN": "scenario text"
+  },
+  {
+    "KEY_CODE": "EVALUATION_FORM",
+    "TR": "Değerlendirme Formu",
+    "EN": "Evaluation Form"
+  },
+  {
+    "KEY_CODE": "COMPETENCY",
+    "TR": "Yetkinlik",
+    "EN": "Competency"
+  },
+  {
+    "KEY_CODE": "BEHAVIORAL_INDICATOR",
+    "TR": "Davranış Göstergesi",
+    "EN": "Behavioral Indicator"
+  },
+  {
+    "KEY_CODE": "SCENARIO_SUMMARY",
+    "TR": "Senaryo Özeti",
+    "EN": "Scenario Summary"
+  },
+  {
+    "KEY_CODE": "SCENARIO_GUIDE",
+    "TR": "Değerlendirme Rehberi",
+    "EN": "Assessment Guide"
+  },
+  {
+    "KEY_CODE": "PREPARATION_TIME",
+    "TR": "Hazırlanma Süresi",
+    "EN": "Preparation Time"
+  },
+  {
+    "KEY_CODE": "PRESENTATION_TIME",
+    "TR": "Sunum Süresi",
+    "EN": "Presentation Time"
+  },
+  {
+    "KEY_CODE": "CASE_STUDY_UPDATED",
+    "TR": "Case study analizi güncellendi",
+    "EN": "Case study is updated"
+  },
+  {
+    "KEY_CODE": "CASE_STUDY_CREATED",
+    "TR": "Case study analizi oluşturuldu",
+    "EN": "Case study is created"
+  },
+  {
+    "KEY_CODE": "MINUTE",
+    "TR": "dk",
+    "EN": "min"
+  },
+  {
+    "KEY_CODE": "CANDIDATE_INFO",
+    "TR": "Aday Bilgilendirme",
+    "EN": "Candidate Information"
+  },
+  {
+    "KEY_CODE": "ADD_FILE",
+    "TR": "Yeni dosya ekle",
+    "EN": "Choose new file"
+  },
+  {
+    "KEY_CODE": "SHOW_FILE",
+    "TR": "Dosyayı göster",
+    "EN": "Show file"
+  },
+  {
+    "KEY_CODE": "EDIT",
+    "TR": "Düzenle",
+    "EN": "Edit"
+  },
+  {
+    "KEY_CODE": "DELETE",
+    "TR": "Sil",
+    "EN": "Delete"
+  },
+  {
+    "KEY_CODE": "CRITERIA_DELETE_WARNING",
+    "TR": "Kriteri silmek istediğinizden emin misiniz?",
+    "EN": "Are you sure you want to delete the criteria?"
+  },
+  {
+    "KEY_CODE": "ITEM_DELETED",
+    "TR": "Değerlendirme kriteri başarı ile silindi.",
+    "EN": "Evaluation criteria deleted successfully."
+  },
+  {
+    "KEY_CODE": "ADD",
+    "TR": "Kriter ekle",
+    "EN": "Add criteria"
+  }
+]

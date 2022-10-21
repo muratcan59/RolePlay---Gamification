@@ -1,0 +1,22 @@
+[
+  {
+    "KEY_CODE":"TITLE",
+    "TR":"Veri İmha Listesi",
+    "EN":"Data Disposal List"
+  },
+  {
+    "KEY_CODE":"CANDIDATE",
+    "TR":"Aday",
+    "EN":"Candidate"
+  },
+  {
+    "KEY_CODE":"ACTION_DATE",
+    "TR":"Son İşlem Tarihi",
+    "EN":"Last Transaction Date"
+  },
+  {
+    "KEY_CODE":"DELETE_DATE",
+    "TR":"Planlanan Silme Tarihi",
+    "EN":"Planned Deletion Date"
+  }
+]

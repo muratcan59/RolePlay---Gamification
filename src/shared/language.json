@@ -1,0 +1,223 @@
+[
+    {
+        "KEY_CODE": "SECINIZ",
+        "TR": "[Seçiniz]",
+        "EN": "[Select]"
+    },
+    {
+        "KEY_CODE": "TAMAMI",
+        "TR": "[Tamamı]",
+        "EN": "[All]"
+    },
+    {
+        "KEY_CODE": "FILTRELE",
+        "TR": "Filtrele",
+        "EN": "Filter"
+    },
+    {
+        "KEY_CODE": "ERKEK",
+        "TR": "Erkek",
+        "EN": "Male"
+    },
+    {
+        "KEY_CODE": "KADIN",
+        "TR": "Kadın",
+        "EN": "Female"
+    },
+    {
+        "KEY_CODE": "DAKIKA",
+        "TR": "Dakika",
+        "EN": "Minute"
+    },
+    {
+        "KEY_CODE": "SAAT",
+        "TR": "Saat",
+        "EN": "Hour"
+    },
+    {
+        "KEY_CODE": "GUN",
+        "TR": "Gün",
+        "EN": "Day"
+    },
+    {
+        "KEY_CODE": "AY",
+        "TR": "Ay",
+        "EN": "Month"
+    },
+    {
+        "KEY_CODE": "YIL",
+        "TR": "Yıl",
+        "EN": "Year"
+    },
+    {
+        "KEY_CODE": "EVET",
+        "TR": "Evet",
+        "EN": "Yes"
+    },
+    {
+        "KEY_CODE": "HAYIR",
+        "TR": "Hayır",
+        "EN": "No"
+    },
+    {
+        "KEY_CODE": "EKLE",
+        "TR": "Ekle",
+        "EN": "Add"
+    },
+    {
+        "KEY_CODE": "KAYDET",
+        "TR": "Kaydet",
+        "EN": "Save"
+    },
+    {
+        "KEY_CODE": "DUZENLE",
+        "TR": "Düzenle",
+        "EN": "Edit"
+    },
+    {
+        "KEY_CODE": "DUZENLE_K",
+        "TR": "düzenle",
+        "EN": "edit"
+    },
+    {
+        "KEY_CODE": "SIL",
+        "TR": "Sil",
+        "EN": "Delete"
+    },
+    {
+        "KEY_CODE": "SIL_K",
+        "TR": "sil",
+        "EN": "delete"
+    },
+    {
+        "KEY_CODE": "RESET",
+        "TR": "Reset",
+        "EN": "Reset"
+    },
+    {
+        "KEY_CODE": "VAZGEC",
+        "TR": "Vazgeç",
+        "EN": "Cancel"
+    },
+    {
+        "KEY_CODE": "UYARI",
+        "TR": "Uyarı",
+        "EN": "Warning"
+    },
+    {
+        "KEY_CODE": "SIL_UYARI",
+        "TR": "Silme işlemini gerçekleştirmeniz durumunda kayıt kalıcı olarak silinecektir. Devam etmek istiyor musunuz?",
+        "EN": "The record will be deleted permanently. Do you want to proceed?"
+    },
+    {
+        "KEY_CODE": "SIL_OK",
+        "TR": "Kayıt başarı ile silindi",
+        "EN": "The record has been successfully deleted"
+    },
+    {
+        "KEY_CODE": "ZORUNLU_ALAN_ACIKLAMA",
+        "TR": "<span class=Z>*</span> ile belirtilen alanların doldurulması zorunludur.",
+        "EN": "Fields marked with <span class=Z>*</span> are required."
+    },
+    {
+        "KEY_CODE": "YOK",
+        "TR": "Yok",
+        "EN": "Nothing"
+    },
+    {
+        "KEY_CODE": "AKTIF",
+        "TR": "Aktif",
+        "EN": "Active"
+    },
+    {
+        "KEY_CODE": "AKTIF_K",
+        "TR": "aktif",
+        "EN": "active"
+    },
+    {
+        "KEY_CODE": "PASIF",
+        "TR": "Pasif",
+        "EN": "Passive"
+    },
+    {
+        "KEY_CODE": "PASIF_K",
+        "TR": "pasif",
+        "EN": "passive"
+    },
+    {
+        "KEY_CODE": "YAZDIR",
+        "TR": "Yazdır",
+        "EN": "Print"
+    },
+    {
+        "KEY_CODE": "YUKARI",
+        "TR": "Yukarı",
+        "EN": "Up"
+    },
+    {
+        "KEY_CODE": "ACIKLAMA",
+        "TR": "Açıklama",
+        "EN": "Description"
+    },
+    {
+        "KEY_CODE": "KAYIT_BULUNAMADI_GENEL",
+        "TR": "Kayıt bulunamadı!",
+        "EN": "Record not found!"
+    },
+    {
+        "KEY_CODE": "TARIH",
+        "TR": "Tarih",
+        "EN": "Date"
+    },
+    {
+        "KEY_CODE": "DURUM",
+        "TR": "Durum",
+        "EN": "Status"
+    },
+    {
+        "KEY_CODE": "ISVEREN",
+        "TR": "İşveren",
+        "EN": "Employer"
+    },
+    {
+        "KEY_CODE": "DIGER",
+        "TR": "Diğer",
+        "EN": "Other"
+    },
+    {
+        "KEY_CODE": "HATA_CEVAP",
+        "TR": "Lütfen cevap veriniz.",
+        "EN": "Please answer."
+    },
+    {
+        "KEY_CODE": "GECERSIZ_CEVAP",
+        "TR": "Lütfen geçerli cevap veriniz.",
+        "EN": "Please give valid answer."
+    },
+    {
+        "KEY_CODE": "TURKCE",
+        "TR": "Türkçe",
+        "EN": "Turkish"
+    },
+    {
+        "KEY_CODE": "INGILIZCE",
+        "TR": "İngilizce",
+        "EN": "English"
+    },
+    {
+        "KEY_CODE": "TAMAM",
+        "TR": "Tamam",
+        "EN": "OK"
+    },
+    {
+        "KEY_CODE": "IPTAL",
+        "TR": "İptal",
+        "EN": "Cancel"
+    }
+    ,
+    {
+        "KEY_CODE": "LABEL_REQUIRED",
+        "TR": "<span class=Z>*</span> ile belirtilen alanların doldurulması zorunludur.",
+        "EN": "Fields marked with <span class=Z>*</span> are required."
+    }
+]

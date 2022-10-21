@@ -1,0 +1,17 @@
+[
+    {
+        "KEY_CODE": "TITLE",
+        "TR": "Reaksiyon",
+        "EN": "Reaction"
+    },
+    {
+        "KEY_CODE": "ITEM_UPDATED",
+        "TR": "Reaksiyon metni başarı ile güncellendi.",
+        "EN": "Reaction updated successfully."
+    },
+    {
+        "KEY_CODE": "ITEM_CREATED",
+        "TR": "Reaksiyon metni başarı ile oluşturuldu.",
+        "EN": "Reaction created successfully."
+    }
+]

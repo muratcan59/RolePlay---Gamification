@@ -1,0 +1,52 @@
+[
+  {
+    "KEY_CODE": "TITLE",
+    "TR": "Veri Saklama Politikası",
+    "EN": "Data Retention Policy"
+  },
+  {
+    "KEY_CODE": "CV_RETENTION_TIME",
+    "TR": "Veri Saklama Süresi",
+    "EN": "Data Retention Period"
+  },
+  {
+    "KEY_CODE": "CV_RETENTION_TIME_DESCRIPTION",
+    "TR": "Belirtilen süre boyunca, aday ya da firma tarafından, üzerinde işlem yapılmayan adaylar otomatik olarak imha edilsin.",
+    "EN": "Candidates that are not processed by the candidate or company within the specified period are automatically destroyed."
+  },
+  {
+    "KEY_CODE": "OPTION_6_MONTHS",
+    "TR": "6 ay",
+    "EN": "6 months"
+  },
+  {
+    "KEY_CODE": "OPTION_1_YEAR",
+    "TR": "1 yıl",
+    "EN": "1 year"
+  },
+  {
+    "KEY_CODE": "OPTION_2_YEAR",
+    "TR": "2 yıl",
+    "EN": "2 years"
+  },
+  {
+    "KEY_CODE": "OPTION_3_YEAR",
+    "TR": "3 yıl",
+    "EN": "3 years"
+  },
+  {
+    "KEY_CODE": "OPTION_4_YEAR",
+    "TR": "4 yıl",
+    "EN": "4 years"
+  },
+  {
+    "KEY_CODE": "OPTION_5_YEAR",
+    "TR": "5 yıl",
+    "EN": "5 years"
+  },
+  {
+    "KEY_CODE": "SAVE_OK",
+    "TR": "Veri saklama politikası başarıyla kaydedildi.",
+    "EN": "Data retention policy has been successfully saved."
+  }
+]
